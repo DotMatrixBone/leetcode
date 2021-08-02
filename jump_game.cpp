@@ -1,3 +1,7 @@
+/*
+    Problem details: https://leetcode.com/problems/jump-game/
+*/
+
 class Solution
 {
 public:
